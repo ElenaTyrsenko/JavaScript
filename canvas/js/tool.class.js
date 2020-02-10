@@ -1,4 +1,4 @@
-export default class Tool{
+export class Tool{
   static TOOL_LINE = 'line';
   static TOOL_RECTANGLE = 'rectangle';
   static TOOL_CIRCLE = 'circle';
